@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/Reason Database Viewer (V4.0)png?raw=true"/>
+<img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
