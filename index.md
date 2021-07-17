@@ -4,19 +4,17 @@
 [Pension Database *App*](https://github.com/ReasonFoundation/pensionviewr)
 
 ---
-
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ### Data Analytics
 [Distribution of Invesment Returns *App*](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
 
 ---
-
 <img src="images/2020FY Returns2.jpg?raw=true"/>
 
-### Data Visualization
+### Automated Reports/Presentations
 ---
-[Project 3 Title](http://example.com/)
+[PowerPoint Slides (w/ RMarkdown)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
