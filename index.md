@@ -1,4 +1,4 @@
-## Portfolio _(MS Office + SQL + R + CSS)_
+## Portfolio
 ---
 
 ### Data Management & Analytics
