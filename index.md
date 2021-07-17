@@ -8,7 +8,7 @@
 
 ---
 
-[2. Invesment Returns -- Table & Histogram (*App w/ R Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
+[2. Invesment Returns (*App w/ R Reactable & Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
 <img src="images/2020FY Returns2.jpg?raw=true"/>
 
 ---
