@@ -23,7 +23,7 @@
 ### Modeling
 
 [1. Pension Benefit Model](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BenefitModel.png?raw=true"/>
 
 ---
 
