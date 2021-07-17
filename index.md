@@ -15,7 +15,7 @@
 ### Automated Reports/Presentations
 ---
 [PowerPoint Slides (w/ RMarkdown)](http://example.com/)
-<img src="images/OPERS_PPT.png?raw=true"/>
+<img src="images/OPERS_PPT2.png?raw=true"/>
 ---
 
 ### Modeling
