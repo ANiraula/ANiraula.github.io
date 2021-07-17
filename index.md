@@ -13,6 +13,11 @@
 
 ---
 
+[3. R Package (*w/ R + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
+<img src="images/2020FY Returns2.jpg?raw=true"/>
+
+---
+
 ### Automated Reports/Presentations
 
 [1. PowerPoint Slides (w/ RMarkdown)](http://example.com/)
