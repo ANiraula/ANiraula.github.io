@@ -3,12 +3,12 @@
 ### Data Management 
 ---
 
-[Pension Database *App*](/sample_page)
+[Pension Database *App*](https://github.com/ReasonFoundation/pensionviewr)
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ### Data Analytics
 ---
-[Distribution of Invesment Returns *App*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2/)
+[Distribution of Invesment Returns *App*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Data Visualization
