@@ -7,13 +7,21 @@
 [Pension Database App](/sample_page)
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
-
+### Data Analytics
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[interactive Apps](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Data Visualization
+---
+[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+### Modeling
+---
+[Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
