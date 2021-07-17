@@ -1,29 +1,26 @@
 ## Portfolio
 
+### Data Management 
 ---
 
-### Data Management 
-
-[Pension Database App](/sample_page)
+[Pension Database *App*](/sample_page)
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ### Data Analytics
 ---
-[interactive Apps](/pdf/sample_presentation.pdf)
+[Distribution of Invesment Returns *App*)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Data Visualization
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Modeling
 ---
 [Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Category Name 2
