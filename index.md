@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-### Data Management & Analytics
+### Managing & Analyzing Data
 
 [1. Pension Database (*App w/ SQL + R*)](https://github.com/ReasonFoundation/)
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### Automated Reports/Presentations
+### Automating Reports/Presentations
 
 [1. PowerPoint Slides (w/ RMarkdown)](http://example.com/)
 <img src="images/OPERS_PPT2.png?raw=true"/>
