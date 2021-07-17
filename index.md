@@ -14,7 +14,7 @@
 ---
 
 [3. R Package (*w/ R + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
-<img src="images/2020FY Returns2.jpg?raw=true"/>
+<img src="images/Pensionviewr.png?raw=true"/>
 
 ---
 
