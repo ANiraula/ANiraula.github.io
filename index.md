@@ -1,14 +1,14 @@
-## Portfolio (MS Office + R + CSS)
+## Portfolio (MS Office + SQL + R + CSS)
 ---
 
 ### Data Management & Analytics
 
-[1. Pension Database (*App w/ Shiny*)](https://github.com/ReasonFoundation/)
+[1. Pension Database (*App w/ SQL + R*)](https://github.com/ReasonFoundation/)
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
 
-[2. Invesment Returns -- Table & Histogram (*App w/ Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
+[2. Invesment Returns -- Table & Histogram (*App w/ R Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
 <img src="images/2020FY Returns2.jpg?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 
 ### Modeling
 
-[1. Pension Benefit Model](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
+[1. Pension Benefit Model (w/ R Shiny + RMarkdown)](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
 <img src="images/BenefitModel.png?raw=true"/>
 
 ---
