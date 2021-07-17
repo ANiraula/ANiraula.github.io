@@ -8,7 +8,7 @@
 
 ### Data Analytics
 ---
-[Distribution of Invesment Returns *App*)](/pdf/sample_presentation.pdf)
+[Distribution of Invesment Returns *App*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Data Visualization
