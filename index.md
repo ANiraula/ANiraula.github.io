@@ -32,6 +32,13 @@
 
 ---
 
+### Regression
+
+[1. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+<img src="images/PensionTrendsRegression.png?raw=true"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
