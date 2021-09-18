@@ -22,7 +22,6 @@
 ---
 
 ### Automating Reports/Presentations
-
 [1. PowerPoint Slides (w/ RMarkdown)](http://example.com/)
 <img src="images/OPERS_PPT2.png?raw=true"/>
 
