@@ -10,13 +10,13 @@
 ---
 
 [2. Invesment Returns (*App w/ R Reactable + Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults_Updt2)
-Interactive app allows to browze 2020 & 2021 investment returns, sort, see return distribution, and more
+<p>Interactive table & histogram showing 2020 & 2021 pension plan returns, and data distribution.</p>
 <img src="images/2020FY Returns2.jpg?raw=true"/>
 
 ---
 
 [3. R Package (*w/ R + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
-"pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from dataabse & other sources
+<p>"pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from database & other sources.</p>
 <img src="images/Pensionviewr.png?raw=true"/>
 
 ---
