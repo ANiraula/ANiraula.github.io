@@ -4,7 +4,7 @@
 ### Managing & Analyzing Data
 
 [1. Pension Database (*App w/ SQL + R*)](https://github.com/ReasonFoundation/)
-<p> o Interactive app allows to pull raw data from the database, as well as filter, see charts, and download csv files.</p>
+<p> -- Interactive app allows to pull raw data from the database, as well as filter, see charts, and download csv files.</p>
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
