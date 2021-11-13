@@ -17,7 +17,7 @@
 
 ---
 
-[3. R Package (*w/ R + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
+[3. R Package (*w/ R + poxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
 
 *-- "pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from database & other sources.*
 <img src="images/Pensionviewr.png?raw=true"/>
@@ -25,7 +25,7 @@
 ---
 
 ### Automating Reports/Presentations
-[1. PowerPoint Slides (w/ RMarkdown)](http://example.com/)
+[1. PowerPoint Slides (w/ RMarkdown + "pensionviewr" R pkg)](http://example.com/)
 
 *-- RMarkdown files allow to knit charts/text/tables into set of powerpoint slides.*
 <img src="images/OPERS_PPT2.png?raw=true"/>
