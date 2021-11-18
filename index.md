@@ -35,7 +35,7 @@
 ### Modeling
   
 [1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
-<img src="images/PensionWealthAccrual.png?raw=true"/>
+<img src="images/NDPERS_PWealth_20Entry.png?raw=true"/>
 
 ---
 
