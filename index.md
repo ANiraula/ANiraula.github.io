@@ -35,7 +35,7 @@
 ### Modeling
   
 [1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
-<img src="images/PensionWealth_SCRS.png?raw=true"/>
+<img src="images/PensionWealthAccrual_SCRS.png?raw=true"/>
 
 ---
   
