@@ -35,7 +35,7 @@
 ### Modeling
   
 [1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
-<img src="images/PensionWealthAccrual_SCRS.png?raw=true"/>
+<img src="images/PensionWealth_SCRS.png?raw=true"/>
 
 ---
   
@@ -44,7 +44,7 @@
 
 ---
 
-### Regression
+### Regression/Machine Learning
 
 [1. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
 <img src="images/PensionTrendsRegression.png?raw=true"/>
