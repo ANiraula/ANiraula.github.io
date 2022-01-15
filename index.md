@@ -38,11 +38,9 @@
 <img src="images/NDPERS_PWealth_20Entry.png?raw=true"/>
 
 ---
-
-### Modeling
   
 [2. Pension Benefit Model (*Interactive Doc w/ RMarkdown + Shiny*)](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
-<img src="images/NDPERS_PWealth_20Entry.png?raw=true"/>
+<img src="images/PensionWealth_RMarkdown.png?raw=true"/>
 
 ---
 
