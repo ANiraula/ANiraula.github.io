@@ -34,7 +34,14 @@
 
 ### Modeling
   
-[1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
+[1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
+<img src="images/NDPERS_PWealth_20Entry.png?raw=true"/>
+
+---
+
+### Modeling
+  
+[2. Pension Benefit Model (*Interactive Doc w/ RMarkdown + Shiny*)](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
 <img src="images/NDPERS_PWealth_20Entry.png?raw=true"/>
 
 ---
