@@ -3,9 +3,9 @@
 
 ### Managing & Analyzing Data
 
-[1. Pension Database (*App w/ SQL + R*)](https://github.com/ReasonFoundation/)
+[1. Pension Database (*App w/ PostgreSQL + R*)](https://github.com/ReasonFoundation/)
 
-*-- Interactive app allows to pull raw data from the database, as well as filter, see charts, and download csv files.*
+*-- Interactive app allows to pull raw data from internal database & public data, as well as filter plans, select columns, view charts, and download csv files.*
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 [3. R Package (*w/ R + poxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
 
-*-- "pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from database & other sources.*
+*-- "pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from internal database & public sources.*
 <img src="images/Pensionviewr.png?raw=true"/>
 
 ---
