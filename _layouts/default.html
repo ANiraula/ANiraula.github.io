@@ -21,9 +21,9 @@
         {% endif %}
         
      
-        <p> {{ site.linkedin }}</p>
-        <p><a href="https://www.linkedin.com/in/anil-niraula-603a0825/">LinkedIn</a></small></p>
-
+        {% if site.linkedin %}
+        <p class="view"><a href="https://www.linkedin.com/in/anil-niraula-603a0825/">LinkedIn</a></p>
+        {% endif %}
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
