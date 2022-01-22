@@ -1,11 +1,8 @@
 title: Anil Niraula # your name (or website title) here
 logo: "/images/Anil (photo 2).jpg?raw=true" # your photo (or logo) here
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - email: "niraulaanil@gmail.com"
-  Author's home: "https://deanattali.com"
+author:
+  location: "Washington, D.C."
+  email: "niraulaanil@gmail.com"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Have extensive hands-on experience w/ MS Office | PostgreSQL | R | GitHub/Git | econsistems in data analytics, data mining & database management (ETL flow), developing R packages & interactive apps, econometric modeling, machine learning and applied research.
   <br><br>
