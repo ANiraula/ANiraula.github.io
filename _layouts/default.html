@@ -19,7 +19,10 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        <p>Email Me: <a href="{{ niraulaanil@gmail.com }}">{{ niraulaanil@gmail.com }}</a></p>
+        
+        {% if site.email %}
+        <p class="view"><a href="{{ niraulaanil@gmail.com }}">{{ Email Me }}</a></p>
+        {% endif %}
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
