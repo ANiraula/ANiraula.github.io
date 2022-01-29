@@ -27,7 +27,7 @@
 ### Automating Reports/Presentations
 [1. PowerPoint Slides (w/ RMarkdown + "pensionviewr" R pkg)](http://example.com/)
 
-*-- RMarkdown files allow to knit charts/text/tables into set of powerpoint slides.*
+*-- RMarkdown files allow to automate pulling, analysing and visualizing data, then knit charts/text/tables into set of powerpoint slides.*
 <img src="images/OPERS_PPT2.png?raw=true"/>
 
 ---
@@ -35,6 +35,8 @@
 ### Modeling
   
 [1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
+
+*-- Benefit model (w/ interactive interface) that allows to recalculate total present value of state-managed pension plan benefits.*
 <img src="images/PensionWealth_SCRS.png?raw=true"/>
 
 ---
