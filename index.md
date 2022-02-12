@@ -37,7 +37,7 @@
 [1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
 
 *-- Benefit model (w/ interactive interface) that allows to recalculate total present value of state-managed pension plan benefits.*
-<img src="images/PensionWealthAccrual2.png?raw=true"/>
+<img src="images/PensionWealthAccrual2.jpg?raw=true"/>
 
 ---
   
