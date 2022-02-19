@@ -27,7 +27,7 @@
 ### Automating Reports/Presentations
 [1. PowerPoint Slides (w/ RMarkdown + "pensionviewr" R pkg)](http://example.com/)
 
-*-- RMarkdown files allow to automate pulling, analysing and visualizing data, then knit charts/text/tables into set of powerpoint slides.*
+*-- RMarkdown files allow to automate pulling, analyzing and visualizing data, then knit charts/text/tables into set of powerpoint slides.*
 <img src="images/OPERS_PPT2.png?raw=true"/>
 
 ---
