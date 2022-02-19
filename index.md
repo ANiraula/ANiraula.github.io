@@ -5,7 +5,7 @@
 
 [1. Pension Database (*App w/ PostgreSQL + R*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
 
-*-- Interactive app allows to pull data from internal database & public data, as well as filter plans, select columns, view charts, and download csv files.*
+*-- Interactive app allows to pull data from internal database & public sources, as well as filter plans, select columns, view charts, and download csv files.*
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-[3. R Package (*w/ R + poxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
+[3. R Package (*w/ R + Roxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
 
 *-- "pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from internal database & public sources.*
 <img src="images/Pensionviewr.png?raw=true"/>
