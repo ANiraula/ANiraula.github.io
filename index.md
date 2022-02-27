@@ -42,6 +42,8 @@
 ---
   
 [2. Pension Benefit Model (*Interactive Doc w/ RMarkdown + Shiny*)](https://anil-niraula.shinyapps.io/PensionWealthModeling/)
+
+*-- RMarkdown document w/ interactive Benefit model elements that allows to write text, bullet points, automate numbers, and interact w/ benefit model.*
 <img src="images/PensionWealth_RMarkdown.png?raw=true"/>
 
 ---
@@ -49,6 +51,8 @@
 ### Regression/Machine Learning
 
 [1. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+
+*-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
 <img src="images/PensionTrendsRegression.png?raw=true"/>
 
 ---
