@@ -17,6 +17,13 @@
 
 ---
 
+[3. Compound Change in Debt (*App w/ Shiny + HTML + Netlify*)](https://reason.shinyapps.io/GainLoss_LASERS/)
+
+*-- Interactive table & histogram showing 2020 & 2021 pension plan returns, and data distribution.*
+<img src="images/LASERS_GainLoss.png?raw=true"/>
+
+---
+
 [3. R Package (*w/ R + Roxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
 
 *-- "pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from internal database & public sources.*
