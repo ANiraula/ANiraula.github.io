@@ -19,7 +19,7 @@
 
 [3. Compound Change in Debt (*App w/ Shiny + HTML + Netlify*)](https://reason.shinyapps.io/GainLoss_LASERS/)
 
-*-- Interactive table & histogram showing 2020 & 2021 pension plan returns, and data distribution.*
+*-- Interactive Waterfall chart showing how plan's pension debt compounded (by category) over 200-2021. Slider resets starting year.*
 <img src="images/LASERS_GainLoss.png?raw=true"/>
 
 ---
