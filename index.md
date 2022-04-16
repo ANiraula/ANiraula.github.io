@@ -66,7 +66,7 @@
 
 [2. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
 
-*-- Jupyter Notebook with R code analyzing data on candies and possible reasons why some candies win more often when matched than other.*
+*-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
 <img src="images/candy2.png?raw=true"/>
 
 ---
