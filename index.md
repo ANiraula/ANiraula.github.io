@@ -71,6 +71,16 @@
 
 ---
 
+### Academic Analysis/Reasearch
+
+[1. New Normal in Investment Returns (w/ Excel & R)](https://reason.org/wp-content/uploads/new-normal-public-pension-investment-returns.pdf)
+[2. Alaska TRS Employee Separation Effects (w/ R & Stata)](https://reason.org/wp-content/uploads/effects-transition-to-defined-contribution-retirement-plan-on-teacher-separations-in-alaska.pdf)
+
+*-- Description*
+<img src="images/AcademicPapers.png?raw=true"/>
+
+---
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
