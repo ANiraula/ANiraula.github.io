@@ -74,6 +74,7 @@
 ### Academic Analysis (ML & Probability & Research)
 
 [1. New Normal in Investment Returns (w/ Excel & R)](https://reason.org/wp-content/uploads/new-normal-public-pension-investment-returns.pdf)
+
 [2. Alaska TRS Employee Separation Effects (w/ R & Stata)](https://reason.org/wp-content/uploads/effects-transition-to-defined-contribution-retirement-plan-on-teacher-separations-in-alaska.pdf)
 
 *-- Peer-reviewed academic research and analysis involving data collection and ID joints, descriptive and regression (ML) analysis, probability analysis (Monte Carlo simulations), etc. *
