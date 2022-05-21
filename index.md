@@ -3,23 +3,24 @@
 
 ### Managing & Analyzing Data
 
-[1. Pension Database (*App w/ PostgreSQL + R*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
+[1. Pension Database (*App w/ PostgreSQL + R Shiny*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
 
-*-- Interactive app allows to pull data from internal database & public sources, as well as filter plans, select columns, view charts, and download csv files.*
+*-- Interactive app showing 2001-2021 data for 110+ U.S. pension plans from internal database & linked public sources. User can filter data by state, by plan, by starting year, select columns, view interactive charts, and download filtered data in csv format.*
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
 
 [2. Invesment Returns (*App w/ R Reactable + Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
 
-*-- Interactive table & histogram showing 2020 & 2021 pension plan returns, and data distribution.*
+*-- Interactive table & histogram showing distribution of 2020-2021 pension plan investment returns, and 2001-2021 pension debt.
+User can filter data by state, plan, and add percentiles to distribution histogram.*
 <img src="images/2021FY Returns.png?raw=true"/>
 
 ---
 
 [3. Compound Change in Debt (*App w/ Shiny + HTML + Netlify*)](https://reason.shinyapps.io/GainLoss_LASERS/)
 
-*-- Interactive Waterfall chart showing how plan's pension debt compounded (by category) over 200-2021. Slider resets starting year.*
+*-- Interactive Waterfall chart showing how pension plan's debt compounded (by category) over 2000-2021 period. Slider resets starting year.*
 <img src="images/LASERS_GainLoss.png?raw=true"/>
 
 ---
@@ -41,7 +42,7 @@
 
 ### Modeling
   
-[1. Pension Benefit Model (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
+[1. Pension Benefit Projection (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
 
 *-- Benefit model (w/ interactive interface) that allows to recalculate total present value of state-managed pension plan benefits.*
 <img src="images/PensionWealthAccrual2.jpg?raw=true"/>
