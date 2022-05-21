@@ -57,7 +57,7 @@ Functionality includes Defined Contribution plans benefits, different employee t
 
 ---
 
-[3. Pension Actuarial Model (*Interactive R Shiny*)] 
+3. Pension Actuarial Model (*Interactive R Shiny*)
 
 *-- R code (with for-loops and custom functions) that projects pension plan's funding and contributions. Functionality includes stress-testing, changing parameters and amortization method.*
 <img src="images/ERC_Proj.png?raw=true"/>
