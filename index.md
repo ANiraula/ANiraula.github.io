@@ -44,7 +44,7 @@ User can filter data by state, plan, and add percentiles to distribution histogr
   
 [1. Pension Benefit Projection (*App w/ R + Shiny*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
 
-*-- Benefit model (w/ interactive interface) that allows to recalculate total present value of state-managed pension plan benefits.*
+*-- Benefit model (w/ interactive interface) that allows to recalculate total present value of public employees' pension benefits.*
 <img src="images/PensionWealthAccrual2.jpg?raw=true"/>
 
 ---
@@ -53,6 +53,11 @@ User can filter data by state, plan, and add percentiles to distribution histogr
 
 *-- RMarkdown document w/ interactive Benefit model elements that allows to write text, bullet points, automate numbers, and interact w/ benefit model.*
 <img src="images/PensionWealth_RMarkdown.png?raw=true"/>
+
+---
+
+[3. Pension Actuarial Model that projects pension plan's funding and contribution requarements. Functionality includes stress-testing, changing parameters and amortization method.*
+<img src="images/ERC_Proj.png?raw=true"/>
 
 ---
 
