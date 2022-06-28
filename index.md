@@ -1,6 +1,22 @@
 ## Portfolio
 ---
 
+### Regression/Machine Learning
+
+[1. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+
+*-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
+<img src="images/PensionTrendsRegression.png?raw=true"/>
+
+---
+
+[2. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
+
+*-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
+<img src="images/candy2.png?raw=true"/>
+
+---
+
 ### Managing & Analyzing Data
 
 [1. Pension Database (*App w/ PostgreSQL + R Shiny*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
@@ -64,21 +80,6 @@ Functionality includes Defined Contribution plans benefits, different employee t
 
 ---
 
-### Regression/Machine Learning
-
-[1. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
-
-*-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
-<img src="images/PensionTrendsRegression.png?raw=true"/>
-
----
-
-[2. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
-
-*-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
-<img src="images/candy2.png?raw=true"/>
-
----
 
 ### Academic Analysis (ML & Probability & Research)
 
