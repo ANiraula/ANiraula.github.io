@@ -17,6 +17,14 @@
 
 ---
 
+[3. Seoul Bike Share Analysis (w/ R + R Markdown)]
+
+*-- Analyzing 2018 data on bikes rented in Seoul and parameters (like season, temperature, and hour) that impact the number of bikes rented.*
+<img src="images/SeoulBike2.png?raw=true"/>
+
+---
+
+
 ### Managing & Analyzing Data
 
 [1. Pension Database (*App w/ PostgreSQL + R Shiny*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
