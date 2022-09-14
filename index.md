@@ -17,7 +17,7 @@
 
 ---
 
-[3. Seoul Bike Share Analysis (w/ R + R Markdown)]
+3. Seoul Bike Share Analysis (w/ R + R Markdown)
 
 *-- Analyzing 2018 data on bikes rented in Seoul and parameters (like season, temperature, and hour) that impact the number of bikes rented.*
 <img src="images/SeoulBike3.png?raw=true"/>
