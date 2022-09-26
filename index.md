@@ -42,14 +42,21 @@ User can filter data by state, plan, and add percentiles to distribution histogr
 
 ---
 
-[3. Compound Change in Debt (*App w/ Shiny + HTML + Netlify*)](https://reason.shinyapps.io/GainLoss_LASERS/)
+[2. US Electricity Supply/Demand (*Viz w/ Python pandas*)](https://github.com/ANiraula/data_projects/blob/main/ElectricSupplyDemand_2020.py/)
+
+*-- Line Charts showing share of US electricity supply at Peak and Low-load hours during each day in 2020*
+<img src="images/Max_Min_ElectricSupply.png?raw=true"/>
+
+---
+
+[4. Compound Change in Debt (*App w/ Shiny + HTML + Netlify*)](https://reason.shinyapps.io/GainLoss_LASERS/)
 
 *-- Interactive Waterfall chart showing how pension plan's debt compounded (by category) over 2000-2021 period. Slider resets starting year.*
 <img src="images/LASERS_GainLoss.png?raw=true"/>
 
 ---
 
-[3. R Package (*w/ R + Roxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
+[5. R Package (*w/ R + Roxygen2 + GitHub*)](https://github.com/ReasonFoundation/pensionviewr)
 
 *-- "pensionviewr" R package contains functions to pull, filter, manipulate, and visualize pension data from internal database & public sources.*
 <img src="images/Pensionviewr.png?raw=true"/>
