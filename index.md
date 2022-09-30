@@ -40,14 +40,14 @@
 User can filter data by state, plan, and add percentiles to distribution histogram*
 <img src="images/2021FY Returns.png?raw=true"/>
 
-[2.2 Invesment Returns 2022 (*App w/ R + datawrapper*)]([[https://reason.shinyapps.io/StatePublicPensionReturnResults2021/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/))
+[2.2 Invesment Returns 2022 (*App w/ R + datawrapper*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/)
 
 *-- Interactive table & line chart showing distribution of 2022 pension plan investment returns built using R for data manipulation & datawrapper for front-end*
 <img src="images/InvReturns2022.png?raw=true"/>
 
 ---
 
-[2. US Electricity Supply/Demand (*Viz w/ Python pandas*)](https://github.com/ANiraula/data_projects/blob/main/ElectricSupplyDemand_2020.py/)
+[3. US Electricity Supply/Demand (*Viz w/ Python pandas*)](https://github.com/ANiraula/data_projects/blob/main/ElectricSupplyDemand_2020.py/)
 
 *-- Line Charts showing share of US electricity supply at Peak and Low-load hours during each day in 2020*
 <img src="images/Max_Min_ElectricSupply.png?raw=true"/>
