@@ -42,7 +42,7 @@ User can filter data by state, plan, and add percentiles to distribution histogr
 
 ---
 
-[2.2 Invesment Returns 2022 (*App w/ R + datawrapper*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/)
+[2.2 Invesment Returns 2022 (*App w/ R + datawrapper*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/)
 
 *-- Interactive table & line chart showing distribution of 2022 pension plan investment returns built using R for data manipulation & datawrapper for front-end*
 <img src="images/InvReturns2022.png?raw=true"/>
