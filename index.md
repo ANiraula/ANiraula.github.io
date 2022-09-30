@@ -34,11 +34,16 @@
 
 ---
 
-[2. Invesment Returns (*App w/ R Reactable + Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
+[2.1 Invesment Returns (*App w/ R Reactable + Shiny + datawrapper*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
 
-*-- Interactive table & histogram showing distribution of 2020-2021 pension plan investment returns, and 2001-2021 pension debt.
-User can filter data by state, plan, and add percentiles to distribution histogram.*
+*-- Interactive table & histogram/line chart showing distribution of 2020-2021 pension plan investment returns, and 2001-2021 pension debt.
+User can filter data by state, plan, and add percentiles to distribution histogram*
 <img src="images/2021FY Returns.png?raw=true"/>
+
+[2.2 Invesment Returns 2022 (*App w/ R + datawrapper*)]([https://reason.shinyapps.io/StatePublicPensionReturnResults2021/](https://reason.org/data-visualization/2022-investment-results-for-state-pension-plans/)
+
+*-- Interactive table & line chart showing distribution of 2022 pension plan investment returns built using R for data manipulation & datawrapper for front-end*
+<img src="images/InvReturns2022.png?raw=true"/>
 
 ---
 
