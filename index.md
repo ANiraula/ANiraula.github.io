@@ -17,7 +17,7 @@
 
 ---
 
-[3. Credit Default Logistic Regression (w/ Python (pandas, numpy, sklearn + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
+[3. Credit Default Logistic Regression (w/ Python (pandas, numpy, sklearn + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
 <img src="images/DefaultLogit.png?raw=true"/>
