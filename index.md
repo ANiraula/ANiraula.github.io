@@ -109,6 +109,14 @@ Functionality includes Defined Contribution plans benefits, different employee t
 
 ---
 
+### NLP
+  
+[1. ChatGPT API (*Jupyter Notebook w/ openai pkg*)](https://anil-niraula.shinyapps.io/PensionBenefitModel_SCRS/)
+
+*-- Code for ChatGPT prompts, allowing to set install, set up, and execute API-based connection w/ openai Python package*
+<img src="images/ChatGPT_Prompt_Feb2023.png?raw=true"/>
+
+---
 
 ### Academic Analysis (ML & Probability & Research)
 
