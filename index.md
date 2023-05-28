@@ -4,14 +4,16 @@
 ### Machine Learning/Stats
 
 
-[1. Credit Default Logistic Regression (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
+[1. Credit Default Logistic Regression 
+(w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
 <img src="images/DefaultLogit.png?raw=true"/>
 
 ---
 
-[2. Isolation Forest (w/ Python sklearn.ensemble + seaborn)](https://github.com/ANiraula/data_projects/edit/main/PythonPractice.py)
+[2. Isolation Forest 
+(w/ Python sklearn.ensemble + seaborn)](https://github.com/ANiraula/data_projects/edit/main/PythonPractice.py)
 
 *-- Detecting Inliners and Outliers based on salary and FTE, assuming 10% of population are outliers (Unsupervised learning)*
 <img src="images/Screen Shot 2023-05-28 at 4.01.09 PM.png?raw=true"/>
