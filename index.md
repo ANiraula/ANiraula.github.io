@@ -3,35 +3,36 @@
 
 ### Regression/Machine Learning
 
-1. Isolation Forest (w/ Python sklearn.ensemble + seaborn)
 
-*-- Detecting Inliners and Outliers based on salary and FTE, assuming 10% of population are outliers (Unsupervised learning)*
-<img src="images/Screen Shot 2023-05-28 at 4.01.09 PM.png?raw=true"/>
-
----
-                                                                    
-[2. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
-
-*-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
-<img src="images/PensionTrendsRegression.png?raw=true"/>
-
----
-
-[2. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
-
-*-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
-<img src="images/LogitModel_Candy.png?raw=true"/>
-
----
-
-[3. Credit Default Logistic Regression (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
+[1. Credit Default Logistic Regression (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
 <img src="images/DefaultLogit.png?raw=true"/>
 
 ---
 
-[4. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
+2. Isolation Forest (w/ Python sklearn.ensemble + seaborn)
+
+*-- Detecting Inliners and Outliers based on salary and FTE, assuming 10% of population are outliers (Unsupervised learning)*
+<img src="images/Screen Shot 2023-05-28 at 4.01.09 PM.png?raw=true"/>
+
+---
+                                                                    
+[3. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+
+*-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
+<img src="images/PensionTrendsRegression.png?raw=true"/>
+
+---
+
+[4. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
+
+*-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
+<img src="images/LogitModel_Candy.png?raw=true"/>
+
+---
+
+[5. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
 
 *-- Analyzing 2018 data on bikes rented in Seoul and parameters (like season, temperature, and hour) that impact the number of bikes rented.*
 <img src="images/SeoulBike3.png?raw=true"/>
