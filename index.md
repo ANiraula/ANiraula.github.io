@@ -3,7 +3,14 @@
 
 ### Regression/Machine Learning
 
-[1. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+[1. Isolation Forest (w/ Python sklearn.ensemble + seaborn)]
+
+*-- Detecting Inliners and Outliers based on salary and other metrics assuming 10% of population are outliers (Unsupervised learning)*
+<img src="images/Screen Shot 2023-05-28 at 4.01.09 PM.png?raw=true"/>
+
+---
+                                                                    
+[2. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
 
 *-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
 <img src="images/PensionTrendsRegression.png?raw=true"/>
