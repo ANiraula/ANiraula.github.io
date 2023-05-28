@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-### Regression/Machine Learning
+### Machine Learning/Stats
 
 
 [1. Credit Default Logistic Regression (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
