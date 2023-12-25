@@ -8,7 +8,7 @@
 (w/ Python (scipy.stats, pandas) in Jupyter NoteBook
 
 *-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
-<img src="images/Screen Shot 2023-12-25 at 3.33.31 PM.png?raw=true"/>
+<img src="images/Screen Shot 2023-12-25 at 4.23.34 PM.png?raw=true"/>
 
 [2. Credit Default Logistic Regression 
 (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
