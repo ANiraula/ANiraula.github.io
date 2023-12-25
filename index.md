@@ -4,8 +4,8 @@
 ### Machine Learning/Statistics
 
 
-[1. A/B Testing 
-(w/ Python (scipy.stats, pandas) in Jupyter NoteBook)
+1. A/B Testing 
+(w/ Python (scipy.stats, pandas) in Jupyter NoteBook
 
 *-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
 <img src="images/Screen Shot 2023-12-25 at 3.33.31 PM.png?raw=true"/>
