@@ -17,6 +17,9 @@
 <img src="images/DefaultLogit.png?raw=true"/>
 
 ---
+2. Stock Price Predictor (Python PyTorch + plotly.express)
+_Training ML base don Jan-Feb 2024 stock prices for MSFT coupled with LSTM and Linear layer together with Mean Squared Error Loss Function and exponential decay_
+<img src="Screen Shot 2024-03-02 at 5.59.34 PM.png"/>
 
 [3. Isolation Forest 
 (w/ Python sklearn.ensemble + seaborn)](https://github.com/ANiraula/data_projects/edit/main/PythonPractice.py)
