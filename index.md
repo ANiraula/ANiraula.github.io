@@ -3,25 +3,29 @@
 
 ### Machine Learning/Statistics
 
-
-1. A/B Testing 
-(w/ Python (scipy.stats, pandas) in Jupyter NoteBook
-
-*-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
-<img src="images/Screen Shot 2023-12-25 at 4.23.34 PM.png?raw=true"/>
-
-[2. Credit Default Logistic Regression 
+[1. Credit Default Logistic Regression 
 (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
 <img src="images/DefaultLogit.png?raw=true"/>
 
 ---
+
 2. Stock Price Predictor (Python PyTorch + plotly.express)
 _Training ML base don Jan-Feb 2024 stock prices for MSFT coupled with LSTM and Linear layer together with Mean Squared Error Loss Function and exponential decay_
 <img src="Screen Shot 2024-03-02 at 5.59.34 PM.png"/>
 
-[3. Isolation Forest 
+---
+
+3. A/B Testing 
+(w/ Python (scipy.stats, pandas) in Jupyter NoteBook
+
+*-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
+<img src="images/Screen Shot 2023-12-25 at 4.23.34 PM.png?raw=true"/>
+
+--
+
+[4. Isolation Forest 
 (w/ Python sklearn.ensemble + seaborn)](https://github.com/ANiraula/data_projects/edit/main/PythonPractice.py)
 
 *-- Detecting Inliners and Outliers based on salary and FTE, assuming 10% of population are outliers (Unsupervised learning)*
@@ -29,21 +33,21 @@ _Training ML base don Jan-Feb 2024 stock prices for MSFT coupled with LSTM and L
 
 ---
                                                                     
-[4. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+[5. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
 
 *-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
 <img src="images/PensionTrendsRegression.png?raw=true"/>
 
 ---
 
-[5. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
+[6. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
 
 *-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
 <img src="images/LogitModel_Candy.png?raw=true"/>
 
 ---
 
-[6. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
+[7. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
 
 *-- Analyzing 2018 data on bikes rented in Seoul and parameters (like season, temperature, and hour) that impact the number of bikes rented.*
 <img src="images/SeoulBike3.png?raw=true"/>
