@@ -11,9 +11,9 @@
 
 ---
 
-2. Stock Price Predictor (Python PyTorch + plotly.express)
-_Predicting next day's MSFT stock price by training PyTorch ML model using Jan-Feb 2024 data leveraging LSTM, Linear regression layers, Mean Squared Error loss function, and exponential decay giving more recent prices higher weights_
-<img src="images/Screen Shot 2024-03-02 at 5.59.34 PM.png?raw=true"/>
+2. Logistic regression ML (Python sklearn)
+_Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index_
+<img src="images/Screen Shot 2024-05-18 at 6.27.06 PM.png.png?raw=true"/>
 
 ---
 
