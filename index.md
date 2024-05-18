@@ -3,17 +3,17 @@
 
 ### Machine Learning/Statistics
 
-[1. Credit Default Logistic Regression 
+1. Logistic regression ML (Python sklearn)
+_Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index_
+<img src="images/Screen Shot 2024-05-18 at 6.27.06 PM.png?raw=true"/>
+
+---
+
+[2. Credit Default Logistic Regression 
 (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
 <img src="images/DefaultLogit.png?raw=true"/>
-
----
-
-2. Logistic regression ML (Python sklearn)
-_Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index_
-<img src="images/Screen Shot 2024-05-18 at 6.27.06 PM.png?raw=true"/>
 
 ---
 
