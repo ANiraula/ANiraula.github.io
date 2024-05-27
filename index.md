@@ -5,7 +5,7 @@
 
 1. Logistic regression ML (Python sklearn)
 _Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index_
-<img src="images/Diabetic_img1.jpg?raw=true"/>
+<img src="images/Screen Shot 2024-05-27 at 12.44.35 PM.png?raw=true"/>
 
 ---
 
