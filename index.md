@@ -4,7 +4,8 @@
 ### Machine Learning/Statistics
 
 [1. Logistic regression ML (Python sklearn)
-_Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index_
+_Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index
+Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 <img src="images/Screen Shot 2024-06-04 at 7.16.00 PM.png?raw=true"/>](https://github.com/ANiraula/MLapp_diabetic/tree/main)
 
 ---
