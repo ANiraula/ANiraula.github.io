@@ -1,16 +1,22 @@
 ## Portfolio
 ---
-
 ### Machine Learning/Statistics
 
-[1. Logistic regression ML (Python sklearn)
+[1. Multiple regression models - actuals vs. predicted (Python sklearn + Dash)
+_Predicting number of bike rides per season, temperature, day type, etc. 
+GradientBoostingRegressor is the most promissing with 0.8 R^2_
+<img src="images/Screen Shot 2024-07-04 at 3.55.01 PM.png?raw=true"/>](https://mlbikerides.onrender.com)
+
+---
+
+[2. Logistic regression ML (Python sklearn)
 _Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index
 Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 <img src="images/Screen Shot 2024-06-04 at 7.16.00 PM.png?raw=true"/>](https://mlapp-diabetic.onrender.com)
 
 ---
 
-[2. Credit Default Logistic Regression 
+[3. Credit Default Logistic Regression 
 (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
