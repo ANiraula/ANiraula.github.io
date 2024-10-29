@@ -4,7 +4,7 @@
 
 [1. XGBoostRegressor (Azure AI | Machine Learning Studio)
 Predicting number of bike rentals based on work day, temperature, year etc.
-Model has 0.08 Normalized RMSE and and 0.82 R Score
+Model error metrics: 0.08 Normalized RMSE and 0.82 R Score
 <img src="images/AzureML.png?raw=true"/>](https://ml.azure.com/experiments/id/7b645f8f-7256-4c1c-856a-9d0fcfde4056/runs/bike-rentals-3_0?wsid=/subscriptions/502460ab-9b04-4a78-bcdc-f66453f64081/resourcegroups/group_Alpha/providers/Microsoft.MachineLearningServices/workspaces/Azure_workspace&tid=4a4e828a-52ae-46d2-b126-3e75b1fb605a#metrics)
 
 ---
