@@ -9,21 +9,21 @@ Model error metrics: 0.08 Normalized RMSE and 0.82 R Score
 
 ---
 
-[1. Multiple regression models - actuals vs. predicted (Python sklearn + Dash)
+[2. Multiple regression models - actuals vs. predicted (Python sklearn + Dash)
 _Predicting number of bike rides per season, temperature, day type, etc. 
 GradientBoostingRegressor is the most promissing with 0.8 R^2_
 <img src="images/Screen Shot 2024-07-04 at 3.55.01 PM.png?raw=true"/>](https://mlbikerides.onrender.com)
 
 ---
 
-[2. Logistic regression ML (Python sklearn)
+[3. Logistic regression ML (Python sklearn)
 _Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index
 Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 <img src="images/Screen Shot 2024-06-04 at 7.16.00 PM.png?raw=true"/>](https://mlapp-diabetic.onrender.com)
 
 ---
 
-[3. Credit Default Logistic Regression 
+[4. Credit Default Logistic Regression 
 (w/ Python (pandas, sklearn) + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/credit/CreditDefault.py)
 
 *-- Jupyter Notebook with Python code analyzing credit default data, how load duration, installment rates, living arrangements & other parameters impact probability of a default.*
@@ -31,7 +31,7 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 ---
 
-3. A/B Testing 
+4. A/B Testing 
 (w/ Python (scipy.stats, pandas) in Jupyter NoteBook
 
 *-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
@@ -39,7 +39,7 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 --
 
-[4. Isolation Forest 
+[5. Isolation Forest 
 (w/ Python sklearn.ensemble + seaborn)](https://github.com/ANiraula/data_projects/edit/main/PythonPractice.py)
 
 *-- Detecting Inliners and Outliers based on salary and FTE, assuming 10% of population are outliers (Unsupervised learning)*
@@ -47,21 +47,21 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 ---
                                                                     
-[5. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+[6. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
 
 *-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
 <img src="images/PensionTrendsRegression.png?raw=true"/>
 
 ---
 
-[6. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
+[7. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
 
 *-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
 <img src="images/LogitModel_Candy.png?raw=true"/>
 
 ---
 
-[7. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
+[8. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
 
 *-- Analyzing 2018 data on bikes rented in Seoul and parameters (like season, temperature, and hour) that impact the number of bikes rented.*
 <img src="images/SeoulBike3.png?raw=true"/>
