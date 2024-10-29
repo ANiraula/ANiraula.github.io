@@ -31,7 +31,7 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 ---
 
-4. A/B Testing 
+5. A/B Testing 
 (w/ Python (scipy.stats, pandas) in Jupyter NoteBook
 
 *-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
@@ -39,7 +39,7 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 --
 
-[5. Isolation Forest 
+[6. Isolation Forest 
 (w/ Python sklearn.ensemble + seaborn)](https://github.com/ANiraula/data_projects/edit/main/PythonPractice.py)
 
 *-- Detecting Inliners and Outliers based on salary and FTE, assuming 10% of population are outliers (Unsupervised learning)*
@@ -47,7 +47,7 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 ---
                                                                     
-[6. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
+[7. Pension Trends Linear Regression (w/ R Shiny)](https://reason.shinyapps.io/DistCoveredEE2/)
 
 *-- Interactive app that allows to build boxplots and linear regression by picking 2 variables and Type of public employee.*
 <img src="images/PensionTrendsRegression.png?raw=true"/>
