@@ -54,14 +54,14 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 ---
 
-[7. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
+[8. Candy Data Logistic Regression (w/ R + Jupyter NoteBook)](https://github.com/ANiraula/data_projects/blob/main/candy/R-candy.ipynb)
 
 *-- Jupyter Notebook with R code analyzing candy data, price-to-sugar relationship & why some win more often when matched than others.*
 <img src="images/LogitModel_Candy.png?raw=true"/>
 
 ---
 
-[8. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
+[9. Seoul Bike Share Analysis (w/ R + R Markdown)](https://github.com/ANiraula/data_projects/tree/main/SeoulBikeShare)
 
 *-- Analyzing 2018 data on bikes rented in Seoul and parameters (like season, temperature, and hour) that impact the number of bikes rented.*
 <img src="images/SeoulBike3.png?raw=true"/>
