@@ -71,14 +71,21 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
 
 ### Managing & Analyzing Data
 
-[1. Pension Database (*App w/ PostgreSQL + R Shiny*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
+[2.1 Data workflow (*Palantir Foundry*)]
+
+*-- Interactive data pipeline using Palantir Foundry that cleans, sorts, and joints two tables.*
+<img src="images/Screenshot.jpeg?raw=true"/>
+
+---
+
+[2.2 Pension Database (*App w/ PostgreSQL + R Shiny*)](https://anil-niraula.shinyapps.io/ReasonDataViewer4)
 
 *-- Interactive app showing 2001-2021 data for 110+ U.S. pension plans from internal database & linked public sources. User can filter data by state, by plan, by starting year, select columns, view interactive charts, and download filtered data in csv format.*
 <img src="images/Reason Database Viewer (V4.0).png?raw=true"/>
 
 ---
 
-[2.1 Invesment Returns (*App w/ R Reactable + Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
+[2.3 Invesment Returns (*App w/ R Reactable + Shiny*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
 
 *-- Interactive table & histogram/line chart showing distribution of 2020-2021 pension plan investment returns, and 2001-2021 pension debt.
 User can filter data by state, plan, and add percentiles to distribution histogram*
@@ -86,7 +93,7 @@ User can filter data by state, plan, and add percentiles to distribution histogr
 
 ---
 
-[2.2 Invesment Returns 2022 (*App w/ R + datawrapper*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
+[2.4 Invesment Returns 2022 (*App w/ R + datawrapper*)](https://reason.shinyapps.io/StatePublicPensionReturnResults2021/)
 
 *-- Interactive table & line chart showing distribution of 2022 pension plan investment returns built using R for data manipulation & datawrapper for front-end*
 <img src="images/InvReturns2022.png?raw=true"/>
