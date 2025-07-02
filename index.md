@@ -4,7 +4,7 @@
 
 [1. Custom ChatBot (via Python + Hugging Face)](https://huggingface.co/spaces/AnilNiraula/FinChat)
 
-*--LLM based on facebook/opt-1.3B model, fine-tuned using public fianancial data, and hosted online using Hugging Face Spaces, Hugging Face (transformers) & Python (torch).*
+*--LLM based on Meta AI's OPT-350m model, fine-tuned using public fianancial data, and hosted online using Hugging Face Spaces, Hugging Face (transformers) & Python (torch).*
 <img src="images/FinChat.png?raw=true"/>
 
 ---
