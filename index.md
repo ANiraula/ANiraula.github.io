@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### Machine Learning/Statistics
+### Data Science/Machine Learning
 
 [1. Custom ChatBot (via Google Colab + Python)](https://b3626385688ead7dd5.gradio.live)
 
