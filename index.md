@@ -13,21 +13,21 @@
 
 Predicting number of bike rentals based on work day, temperature, year etc.
 Model error metrics: 0.08 Normalized RMSE and 0.82 R Score
-<img src="images/AzureML2.png?raw=true"/>]
+<img src="images/AzureML2.png?raw=true"/>
 
 ---
 
-[3. Multiple regression models - actuals vs. predicted (Python sklearn + Dash)
+[3. Multiple regression models - actuals vs. predicted (Python sklearn + Dash)](https://mlbikerides.onrender.com)
 _Predicting number of bike rides per season, temperature, day type, etc. 
 GradientBoostingRegressor is the most promissing with 0.8 R^2_
-<img src="images/Screen Shot 2024-07-04 at 3.55.01 PM.png?raw=true"/>](https://mlbikerides.onrender.com)
+<img src="images/Screen Shot 2024-07-04 at 3.55.01 PM.png?raw=true"/>
 
 ---
 
-[4. Logistic regression ML (Python sklearn)
+[4. Logistic regression ML (Python sklearn)](https://mlapp-diabetic.onrender.com)
 _Predicting if a person is Diabetic #1 vs. not #2 based on Age, Glucose level and BMI index
 Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*_
-<img src="images/Screen Shot 2024-06-04 at 7.16.00 PM.png?raw=true"/>](https://mlapp-diabetic.onrender.com)
+<img src="images/Screen Shot 2024-06-04 at 7.16.00 PM.png?raw=true"/>
 
 ---
 
