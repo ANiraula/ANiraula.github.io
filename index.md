@@ -4,7 +4,7 @@
 
 [1. Custom ChatBot (via Google Colab + Python)](https://b3626385688ead7dd5.gradio.live)
 
-*--LLM based on facebook/opt-1.3B model, fine-tuned using public fianncial data, and hosted online sing Python & Gradio.*
+*--LLM based on facebook/opt-1.3B model, fine-tuned using public fianancial data, and hosted online using Python (torch), Hugging Face (transformers) & Gradio.*
 <img src="images/FinChat.png?raw=true"/>]
 
 ---
