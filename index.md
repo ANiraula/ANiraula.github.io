@@ -2,9 +2,9 @@
 ---
 ### Data Science/Machine Learning
 
-[1. Custom ChatBot (via Python + Hugging Face + Google Colab)](https://huggingface.co/spaces/AnilNiraula/FinChat)
+[1. Custom ChatBot (via Python + Hugging Face)](https://huggingface.co/spaces/AnilNiraula/FinChat)
 
-*--LLM based on facebook/opt-1.3B model, fine-tuned using public fianancial data, and hosted online using Python (torch), Hugging Face (transformers) & Gradio.*
+*--LLM based on facebook/opt-1.3B model, fine-tuned using public fianancial data, and hosted online using Hugging Face Space, Hugging Face (transformers) & Python (torch).*
 <img src="images/FinChat.png?raw=true"/>
 
 ---
