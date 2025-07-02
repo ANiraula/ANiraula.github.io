@@ -3,7 +3,7 @@
 ### Machine Learning/Statistics
 
 [1. Custom ChatBot (via Google Colab + Python)
-LLM based on facebook/opt-1.3B model, fine-tuned using public fianncial data, and hosted online sing Python & Gradio.
+*--LLM based on facebook/opt-1.3B model, fine-tuned using public fianncial data, and hosted online sing Python & Gradio.*
 <img src="images/FinChat.png?raw=true"/>](https://b3626385688ead7dd5.gradio.live)
 
 ---
