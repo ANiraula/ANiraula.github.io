@@ -9,7 +9,7 @@
 
 ---
 
-2. XGBoostRegressor (Azure AI | Machine Learning Studio)
+[2. XGBoostRegressor (Azure AI | Machine Learning Studio)]
 
 *--Predicting number of bike rentals based on work day, temperature, year etc.
 Model error metrics: 0.08 Normalized RMSE and 0.82 R Score.*
@@ -42,7 +42,7 @@ Becasue of small sample of diabetics, I'm using *class_weight = 'balanced'*
 ---
 
 6. A/B Testing 
-(w/ Python (scipy.stats, pandas) in Jupyter NoteBook
+(w/ Python (scipy.stats, pandas) in Jupyter NoteBook)
 
 *-- created Python code analyzing advertising experiment on Treatment group, using Control group as a baseline showing how T-tests can be used to see statistical difference in outcomes (conversion rate) before and after the advertising.*
 <img src="images/Screen Shot 2023-12-25 at 4.23.34 PM.png?raw=true"/>
