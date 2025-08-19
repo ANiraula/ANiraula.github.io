@@ -4,7 +4,7 @@
 
 [1. Custom ChatBot with fine-tuned LLM (via Python + Hugging Face)](https://huggingface.co/spaces/AnilNiraula/FinChat)
 
-*--LLM based on OpenAI's distilgpt2 model, fine-tuned using public S&P500 data, and hosted online using Hugging Face Spaces, Hugging Face (transformers) & Python (torch, etc).*
+*--LLM based on OpenAI's distilgpt2 model, fine-tuned using public S&P500 data, and hosted online using Hugging Face Spaces, Hugging Face (transformers) & Python (PyTorch, Sklearn etc).*
 <img src="images/FinChat_emma-3n.png?raw=true"/>
 
 ---
