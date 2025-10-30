@@ -8,7 +8,6 @@
 <img src="images/TimeSeriesForecaster_CV_BT_XGBR.png?raw=true"/>
 
 ---
-### Data Science/Machine Learning
 
 [Custom ChatBot with fine-tuned LLM (via Python + Hugging Face)](https://huggingface.co/spaces/AnilNiraula/FinChat)
 
