@@ -2,7 +2,7 @@
 ---
 ### Data Science/Machine Learning
 
-[Predicitng Bike Rentals Time Series (via Python skforecast & statsmodels)](https://github.com/ANiraula/data_projects/blob/main/bike_rental_time_series_ARIMAX.py)
+[Predicting Bike Rentals - Time Series (via Python skforecast & statsmodels)](https://github.com/ANiraula/data_projects/blob/main/bike_rental_time_series_ARIMAX.py)
 
 *--Time Sereis forecasting of Bike Share hourly data via Python (XGBRegressor, skforecast, sklearn, statsmodels). Visualizing seasonality and autocorrelation patterns,fitting XGBRegressor model with and without rolling 3-day average, picking best lags and hyperparameters to minimize Mean Absolute Error*
 <img src="images/TimeSeriesForecaster_CV_BT_XGBR.png?raw=true"/>
